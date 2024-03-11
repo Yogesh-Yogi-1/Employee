@@ -48,7 +48,8 @@ admin.site.register(Employee,EmployeeAdmin)
 
 ## OUTPUT
 
-![OUTPUT](./Out.png)
+!![Screenshot 2024-03-10 165225](https://github.com/Yogesh-Yogi-1/Employee/assets/148514598/408656ce-6915-4e63-b5f8-37a001b91b44)
+
 
 
 ## RESULT
